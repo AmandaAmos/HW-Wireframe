@@ -1,4 +1,16 @@
-body {font-family: Arial, Helvetica, sans-serif;color: '#777';font-size: 18px;width: 960px;text-align: center;}
-nav {text-align: center;background: '#ebebeb';}
-section {width: 495px; background: '#ebebeb';}
-article {color: '#ebebeb'}
+body {font-family: Arial, Helvetica, sans-serif;color: #777;font-size: 18px;width: 960px;text-align: center;}
+nav {text-align: center;background: #ebebeb;min-height: 80px;}
+     div {
+    width: 960px;
+    border: 15px solid #ebebeb;
+    padding: 0px;
+    margin: 0px;
+  }
+aside {width: 495px;background: #ebebeb;text-align: center;}
+section {width: 495px; background: #ebebeb;}
+article {color: #ebebeb}
+h1 {color: #777;text-emphasis: bold;}
+p {color: #777}
+header {height: 80px;text-align: center;background: #ebebeb;}
+footer {display: block;position: center;background-color: #ebebeb;width: 960px;}
+html {background: #777}
